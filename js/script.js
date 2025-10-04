@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p,  .about-content', { origin: 'right' })
 
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Front-End Developer', 'Back-End Developer', 'Web Designer'],
+    strings: ['Data Enthusiast', 'Data Analyst', 'Data Scientist'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
